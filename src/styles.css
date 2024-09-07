@@ -12,6 +12,7 @@ body {
   overflow-x: hidden;
   padding: 0;
   width: 100%;
+  color: white;
 }
 
 div#main {
@@ -70,7 +71,7 @@ p {
   font-size: 18px;
   line-height: 1.5;
   margin-bottom: 0;
-  font-weight: 300;
+  font-weight: 200;
 }
 
 p.large {
@@ -122,4 +123,7 @@ a:hover {
 img.socialIcon {
   height: 30px;
   width: 30px;
+}
+.text-light {
+  color: rgb(11, 11, 11); /* Ensures text is visible on dark background */
 }
