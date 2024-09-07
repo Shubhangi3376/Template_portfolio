@@ -49,10 +49,10 @@ const projectList = [
     url: "https://shubhangi3376.github.io/html-portfolio/ ",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "React app",
     description:
       "Passionate about building innovative solutions and exploring insights. Let's connect!",
-    url: "https://github.com/Shubhangi3376",
+    url: "https://shubhangi3376.github.io/react-a/",
   },
 ];
 const Portfolio = () => {
